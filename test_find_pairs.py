@@ -8,7 +8,7 @@ class TestFindPairs(unittest.TestCase):
         target = 12
         expected = ['5, 7', '0, 12', '-4, 16']
         list_pairs = find_pairs(nums, target)
-        output = [pair for pair in pairs]
+        output = [pair for pair in list_pairs]
         self.assertEqual(output, expected)
 
 
