@@ -14,9 +14,9 @@ def find_pairs(nums: List[int], target: int) -> List[str]:
 
 def main() -> None:
     test_data = input().split()
-    list_numbers = [int(num) for num in test_data]
+    nums = [int(num) for num in test_data]
     target = int(input())
-    list_pairs = find_pairs(list_numbers, target)
+    list_pairs = find_pairs(nums, target)
     for pair in list_pairs:
         print(pair)
 
