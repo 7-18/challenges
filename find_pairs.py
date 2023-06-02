@@ -17,8 +17,7 @@ def main() -> None:
     nums = [int(num) for num in test_data]
     target = int(input())
     list_pairs = find_pairs(nums, target)
-    for pair in list_pairs:
-        print(pair)
+    [print(pair) for pair in list_pairs]
 
 
 if __name__ == "__main__":
