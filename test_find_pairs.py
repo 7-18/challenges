@@ -6,10 +6,10 @@ class TestFindPairs(unittest.TestCase):
     def test_find_pairs(self):
         nums = [1, 9, 5, 0, 20, -4, 12, 16, 7]
         target = 12
-        expected_result = ['5, 7', '0, 12', '-4, 16']
-        pairs = find_pairs(nums, target)
+        expected = ['5, 7', '0, 12', '-4, 16']
+        list_pairs = find_pairs(nums, target)
         output = [pair for pair in pairs]
-        self.assertEqual(output, expected_result)
+        self.assertEqual(output, expected)
 
 
 if __name__ == '__main__':
