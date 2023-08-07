@@ -6,9 +6,9 @@ Welcome to the challenges repository! This collection of coding challenges featu
 
 In this repository, you will find a set of coding challenges that have been solved using recursion in various programming languages. Each challenge is placed in its respective folder, and inside each folder, you can find the following files:
 
-- `problem.md`: A detailed description of the challenge, including its input, output, and any constraints.
 - `solution.py`: The solution to the challenge in Python, Kotlin, JavaScript, etc.
-- (Optional) `test.py`: If needed, a separate file with test functions used in the recursive solution.
+- (Optional) `problem.md`: A detailed description of the challenge, including its input, output, and any constraints.
+- (Optional) `test.py`: If needed, a separate file with test functions used in the solution.
 - (Optional) `DATA.lst`: A list of test data that can be used to solve the challenge.
 
 ## Why Recursion?
