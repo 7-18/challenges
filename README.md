@@ -32,7 +32,7 @@ The repository is organized into folders, with each folder representing a specif
 
 ## Getting Started
 
-To explore the solutions or use them in your projects, follow these steps:
+To explore the solutions, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
