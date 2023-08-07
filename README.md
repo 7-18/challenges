@@ -19,6 +19,7 @@ Recursion is a valuable approach to problem-solving, especially when dealing wit
 
 The repository is organized into folders, with each folder representing a specific challenge. Inside each challenge folder, you will find the solutions in various programming languages. For example:
 
+```
 ├── challenge-1
 │ ├── problem.md
 │ ├── solution.py
@@ -27,7 +28,7 @@ The repository is organized into folders, with each folder representing a specif
 │ ├── problem.md
 │ ├── solution.js
 │ └── test.js
-
+```
 
 ## Getting Started
 
